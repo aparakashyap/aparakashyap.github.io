@@ -4,7 +4,7 @@ collection: talks
 type: "Guest Lecture"
 permalink: /talks/Time_Series_ML
 venue: "Columbia University, Department of Biomedical Informatics"
-date: 2024-04
+date: 2024-04-25
 location: "New York, US"
 ---
 
