@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/TA_MLHC
 venue: "Columbia University"
-date: Spring 2024
+date: 2024
 location: "New York, US"
 ---
 
