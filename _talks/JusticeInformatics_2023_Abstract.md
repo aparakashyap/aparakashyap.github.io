@@ -4,7 +4,7 @@ collection: talks
 type: "Podium Abstract"
 permalink: /talks/JusticeInformatics_2023_podium
 venue: "American Medical Informatics Association Annual Symposium"
-date: 2023-11
+date: 2023-11-12
 location: "New Orleans, US"
 ---
 
