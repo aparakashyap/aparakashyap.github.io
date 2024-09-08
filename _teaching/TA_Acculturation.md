@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/TA_Acculturation
 venue: "Columbia University"
-date: Fall 2023
+date: 2023
 location: "New York, US"
 ---
 
